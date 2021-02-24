@@ -1,0 +1,13 @@
+{
+  "name": "@bam.tech/parcel-plugin-handlebars-mock",
+  "version": "1.0.5",
+  "description": "Parcel plugin to populate html during development.",
+  "main": "index.js",
+  "author": "Thomas Pucci",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "handlebars": "^4.7.7",
+    "parcel-bundler": "^1.12.4"
+  }
+}
