@@ -1,6 +1,6 @@
 {
   "name": "@bam.tech/parcel-plugin-handlebars-mock",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "Parcel plugin to populate html during development.",
   "main": "index.js",
   "author": "Thomas Pucci",
